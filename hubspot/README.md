@@ -4,8 +4,6 @@
 - Completed HubSpot “Email Design” lesson.
 - Captured notes on layout, CTAs, and mobile optimization.
 
-### Day 3 – 3 Dec 2025
-- Completed modules:
-  - Maximizing the Impact of Copy in Email Marketing
-  - Getting Your Audience to Take Action in Email Marketing
-- Captured copywriting + CTA best practices for future campaigns.
+### 3 Dec 2025
+- Completed HubSpot Email Marketing Certification.
+- Key areas learned: strategy, email design, copy, CTAs, analysis.
